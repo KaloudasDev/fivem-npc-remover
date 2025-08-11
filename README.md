@@ -1,4 +1,4 @@
-## 🎮 GTA NPC & Vehicle Cleanup
+## 🎮FiveM GTA Pedestrians & Vehicle Cleanup
 
 **GTA NPC & Vehicle Cleanup** is a lightweight, efficient client-side script for GTA V that automatically removes unwanted NPCs, random cops, garbage trucks, and vehicles. Designed to enhance gameplay experience by reducing clutter, improving server performance, and providing a cleaner, more immersive environment for players.
 
