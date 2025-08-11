@@ -79,4 +79,5 @@ This project is licensed under the **MIT License** — permitting free use, modi
 ## ✒️ Author
 
 Created and maintained by **KaloudasDev**.
+
 If you find this project useful, please ⭐ star the repository to support further development!
